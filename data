@@ -1,0 +1,11 @@
+ping www.google.com
+java --version
+php -version
+node --version
+mvn -version
+
+git clone https://github.com/shiol/UPLAY_GAME_ID.git
+
+dir
+
+mkdir temp
